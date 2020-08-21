@@ -73,7 +73,7 @@ Version 5.2 (20190905-083227)
    * Displays warning icon when outdated Vuforia and TensorFlow blocks are used ([SkyStone issue #27](https://github.com/FIRST-Tech-Challenge/SkyStone/issues/27))
 
 **************************************************************************************
-# Release Information
+# Release Information 
 **************************************************************************************
 
 Version 5.1 (20190820-222104)
